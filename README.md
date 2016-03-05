@@ -3,5 +3,5 @@
 ### Wordpress Plugin:
 https://wordpress.org/plugins/affiliate-pro/
 
-### Plugin Repo:
+### Fork on Github:
 https://github.com/affiliate-pro/affiliate-pro
